@@ -6,8 +6,7 @@
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 
-#EXTINF:-1 ,Canal 26 HD
+#EXTINF:-1 ,ESPN VIVO
 
-rtsp://live-edge01.telecentro.net.ar:80/live/26hd-720
-
+rtmp://$OPT:rtmp-raw=rtmp://31.204.153.71/live/ playpath=master06 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN.html --liveanal 26 HD
 
